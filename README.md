@@ -1,6 +1,6 @@
 # cs-comps-micropython
 
-This repo contains a few libraries we collected or wrote for MicroPython. Each folder contains the library, the test and a hook-up guidance.
+This repo contains a few libraries we collected or wrote for MicroPython. Each folder may contain the library, the test, the example code, and a hook-up guidance.
 
 For the exact sources of each library, see the comment at the top of each module.
 

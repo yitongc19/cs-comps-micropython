@@ -13,11 +13,11 @@ LEDx1.low()
 try:
   while True:
   
-  LEDx1.value(False)
-  pyb.delay(1000)
+    LEDx1.value(False)
+    pyb.delay(1000)
   
-  LEDx1.value(True)
-  pyb.delay(100)
+    LEDx1.value(True)
+    pyb.delay(100)
   
   
 except:
